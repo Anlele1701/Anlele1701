@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, I'm An 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">A thrill seeker and a junior at the University of Foreign Languages and Technology in Ho Chi Minh City who believes turning ideas into reality. While being a student, I also work as a collaborative lecturer at a technological academy. In my spare time, I love playing with my cat or playing some sports with my wife in the park. But sometimes, I just want to watch some videos on Youtube instead. Before 2023 ends, my goal is to learn a new programming language on my own and improve my speaking skills.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🥷 About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular and NodeJS<br>🎯 Goals: Pursuing my dream as a fullstack developer!<br>🎲 Fun fact: My favourite game is CS2 even though I'm really bad at it</p>
 
 ###
 
-<h2 align="left">Language and</h2>
+<h2 align="left"> 🧰 Languages and tools</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 </div>
 
 ###
-
+### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anlele1701&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anlele1701&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
