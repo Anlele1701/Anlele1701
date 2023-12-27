@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm An 👋</h1>
 
-![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+![readme](https://raw.githubusercontent.com/Anlele1701/Anlele1701/main/LE%20THANH%20DUY%20AN.png))
 
 ###
 
