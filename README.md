@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Angular and NodeJS<br>🎯 Goals: Pursuing my dream as a fullstack developer!<br>🎲 Fun fact: My favourite game is CS2 even though I'm really bad at it</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning VueJS and Tailwind<br>🎯 Goals: Pursuing my dream as a fullstack developer!<br>🎲 Fun fact: My favourite game is CS2 even though I'm really bad at it</p>
 
 ###
 
