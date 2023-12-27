@@ -1,5 +1,5 @@
 <h1 align="left">Hey, I'm An 👋</h1>
-
+!(https://raw.githubusercontent.com/Anlele1701/Anlele1701/main/LE%20THANH%20DUY%20AN.png)
 ###
 
 <p align="left">A thrill seeker and a junior at the University of Foreign Languages and Technology in Ho Chi Minh City who believes turning ideas into reality. While being a student, I also work as a collaborative lecturer at a technological academy. In my spare time, I love playing with my cat or playing some sports with my wife in the park. But sometimes, I just want to watch some videos on Youtube instead. Before 2023 ends, my goal is to learn a new programming language on my own and improve my speaking skills.</p>
